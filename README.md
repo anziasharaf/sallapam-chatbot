@@ -30,6 +30,6 @@ Read the Whoosh documentation at https://whoosh.readthedocs.org/en/latest/
 See [LICENSE.txt](https://github.com/mchaput/whoosh/blob/master/LICENSE.txt) file for the details.
 
 ###Contibutors
-Anzi.A.S
-Reshma Musthafa
+1. Anzi.A.S,Research Assistant,ICFOSS
+2.`Reshma Musthafa,Research Assistant,ICFOSS
  
